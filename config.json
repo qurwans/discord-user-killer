@@ -1,0 +1,10 @@
+{
+    "TOKEN": "token",
+    "LANGUAGE": "ar",
+    "THEME": "light",
+    "REMOVE_FRIENDS": false,
+    "MESSAGE_TEXT": "привет",
+    "LEAVE_GUILDS": false,
+    "BLOCK_FRIENDS": true,
+    "THEME_CAROUSEL": true
+}
